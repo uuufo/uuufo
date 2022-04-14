@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @uuufo
-- 👀 I’m interested in travel, hiking, camping, riding dirt bikes and family life.  Also computers and technology :P 
-- 🌱 I’m currently (endlessly) learning Java, Spring, OAuth 2.0/OIDC, API and service design, among countless other things.
-
+- 👀 I’m interested in travel, hiking, camping, music and family life.  Also computers and technology :P 
+- 🌱 I’m currently (endlessly) learning _________ - you name it!
+- 💞️ I _love_ Java, but also enjoy writing software with other languages & frameworks.
+- 
 <!---
-- 💞️ I’m looking to collaborate on 
 - 📫 You can reach out to me here on 
 --->
 
